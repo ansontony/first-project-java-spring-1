@@ -27,7 +27,7 @@ Returns a plain text response.
 ## Screenshots
 
 ### Hello Vistula
-![Hello Vistula](Screenshot 2026-05-19 193840.png)
+![Hello Vistula](Screenshot%202026-05-19%20193840.png)
 
 ### Greeting Page
-![Greeting Page](Screenshot 2026-05-19 193901.png)
+![Greeting Page](Screenshot%202026-05-19%20193901.png)
